@@ -45,7 +45,7 @@ Please cite zytron in your paper or your project if you found it beneficial in a
 
 [ ] MATH
 
-## code
+## Code
 [ ] HumanEval
 
 [ ] MBPP 
@@ -56,7 +56,7 @@ Please cite zytron in your paper or your project if you found it beneficial in a
 
 [ ] SWE-bench
 
-## commonsense reasoning
+## Commonsense Reasoning
 [ ] ARC (AI2 Reasoning Challenge)
 
 [ ] HellaSwag
@@ -71,7 +71,7 @@ Please cite zytron in your paper or your project if you found it beneficial in a
 
 [ ] CommonsenseQA
 
-## Question Answering - world knowledge
+## Question Answering - World Knowledge
 [ ] WebQuestions
 
 [ ] NaturalQuestions
@@ -98,7 +98,7 @@ Please cite zytron in your paper or your project if you found it beneficial in a
 
 [ ] SuperGLUE
 
-## reading comprehension
+## Reading Comprehension
 
 [ ] BoolQ
 
@@ -106,7 +106,7 @@ Please cite zytron in your paper or your project if you found it beneficial in a
 
 [ ] DROP
 
-## aggregated
+## Aggregated
 
 [ ] MMLU
 
@@ -116,7 +116,7 @@ Please cite zytron in your paper or your project if you found it beneficial in a
 
 [ ] AGI Eval 
 
-## multi-agent
+## Multi-Agent
 
 [ ] ChatBot Arena
 
@@ -138,9 +138,6 @@ Please cite zytron in your paper or your project if you found it beneficial in a
    [ ] Did the agent output match the expected reference output?
 
 [ ] Compute load
-
-[ ] Cost $
-   " the cost per 1000 function callings ![alt text](image.png)"
 
 [ ] Average Latency (s)
     "Latency: we measure the latency by timing each request to the endpoint ignoring the function document preprocessing time."

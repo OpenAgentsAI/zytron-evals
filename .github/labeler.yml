@@ -1,0 +1,11 @@
+---
+documentation:
+  - changed-files:
+      - any-glob-to-any-file: ["docs/**", "*.md"]
+tests:
+  - changed-files:
+      - any-glob-to-any-file: "tests/**"
+code:
+  - changed-files:
+      - any-glob-to-any-file: "zytron_evals/**"
+
